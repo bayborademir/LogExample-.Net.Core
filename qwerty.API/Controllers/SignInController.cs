@@ -35,7 +35,6 @@ namespace qwerty.API.Controllers
                     var CurrentUserName = await _userManager.GetUserNameAsync(CurrentUser);
 
                     log4net.GlobalContext.Properties["userName"] = CurrentUserName;
-                    //log4net.GlobalContext.Properties["ipAddres"] = ipAddress;
                     return Ok("Giriş Yapıldı");
                 }
             }

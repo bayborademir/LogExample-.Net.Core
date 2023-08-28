@@ -13,18 +13,7 @@ namespace RentACar.API.Contract
     public class Log4NetActionFilterAttribute : ActionFilterAttribute
     {
         private readonly ILog _logger;
-        private readonly ICurrentUser _current;
-        private readonly UserManager<AppUser> _userManager;
-        private readonly IHttpContextAccessor _httpContext;
-
-        public Log4NetActionFilterAttribute(ICurrentUser current, UserManager<AppUser> userManager, IHttpContextAccessor httpContext)
-        {
-            _current = current;
-            _userManager = userManager;
-            _httpContext = httpContext;
-        }
-
-
+  
         public Log4NetActionFilterAttribute()
         {
             _logger = LogManager.GetLogger(MethodBase.GetCurrentMethod().DeclaringType);
@@ -32,11 +21,6 @@ namespace RentACar.API.Contract
 
         public override async void OnActionExecuting(ActionExecutingContext context)
         {
-
-            //var ipAddress = _httpContext.HttpContext.Connection.RemoteIpAddress;
-
-            //log4net.ThreadContext.Properties["ipAdress"] = ipAddress;
-
             _logger.Info($"Executing {context.ActionDescriptor.DisplayName}");
             base.OnActionExecuting(context);
         }
