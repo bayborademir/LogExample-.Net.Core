@@ -1,0 +1,12 @@
+/Users/bayborademir/Projects/qwerty/qwerty.Bussines/bin/Debug/net7.0/qwerty.Bussines.deps.json
+/Users/bayborademir/Projects/qwerty/qwerty.Bussines/bin/Debug/net7.0/qwerty.Bussines.dll
+/Users/bayborademir/Projects/qwerty/qwerty.Bussines/bin/Debug/net7.0/qwerty.Bussines.pdb
+/Users/bayborademir/Projects/qwerty/qwerty.Bussines/obj/Debug/net7.0/qwerty.Bussines.csproj.AssemblyReference.cache
+/Users/bayborademir/Projects/qwerty/qwerty.Bussines/obj/Debug/net7.0/qwerty.Bussines.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bayborademir/Projects/qwerty/qwerty.Bussines/obj/Debug/net7.0/qwerty.Bussines.AssemblyInfoInputs.cache
+/Users/bayborademir/Projects/qwerty/qwerty.Bussines/obj/Debug/net7.0/qwerty.Bussines.AssemblyInfo.cs
+/Users/bayborademir/Projects/qwerty/qwerty.Bussines/obj/Debug/net7.0/qwerty.Bussines.csproj.CoreCompileInputs.cache
+/Users/bayborademir/Projects/qwerty/qwerty.Bussines/obj/Debug/net7.0/qwerty.Bussines.dll
+/Users/bayborademir/Projects/qwerty/qwerty.Bussines/obj/Debug/net7.0/refint/qwerty.Bussines.dll
+/Users/bayborademir/Projects/qwerty/qwerty.Bussines/obj/Debug/net7.0/qwerty.Bussines.pdb
+/Users/bayborademir/Projects/qwerty/qwerty.Bussines/obj/Debug/net7.0/ref/qwerty.Bussines.dll

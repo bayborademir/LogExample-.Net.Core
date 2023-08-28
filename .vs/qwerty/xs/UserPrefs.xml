@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{2D7F402B-A642-47AA-9A62-025EAFDFA161}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="qwerty.API/Contract/LogActionAttribute.cs">
+    <Files>
+      <File FileName="qwerty.API/Program.cs" Line="51" Column="1" IsPinned="True" />
+      <File FileName="qwerty.API/Controllers/SignInController.cs" Line="37" Column="1" />
+      <File FileName="qwerty.API/Controllers/SignUpController.cs" Line="8" Column="1" />
+      <File FileName="qwerty.API/Contract/LogActionAttribute.cs" Line="8" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="qwerty" expanded="True">
+            <Node name="qwerty.API" expanded="True">
+              <Node name="Contract" expanded="True">
+                <Node name="LogActionAttribute.cs" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Logs" expanded="True" />
+            </Node>
+            <Node name="qwerty.DataAcces" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.qwerty.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,17 @@
+/Users/bayborademir/Projects/qwerty/qwerty.DataAcces/bin/Debug/net7.0/qwerty.DataAcces.deps.json
+/Users/bayborademir/Projects/qwerty/qwerty.DataAcces/bin/Debug/net7.0/qwerty.DataAcces.runtimeconfig.json
+/Users/bayborademir/Projects/qwerty/qwerty.DataAcces/bin/Debug/net7.0/qwerty.DataAcces.dll
+/Users/bayborademir/Projects/qwerty/qwerty.DataAcces/bin/Debug/net7.0/qwerty.DataAcces.pdb
+/Users/bayborademir/Projects/qwerty/qwerty.DataAcces/bin/Debug/net7.0/qwerty.Enttities.dll
+/Users/bayborademir/Projects/qwerty/qwerty.DataAcces/bin/Debug/net7.0/qwerty.Enttities.pdb
+/Users/bayborademir/Projects/qwerty/qwerty.DataAcces/obj/Debug/net7.0/qwerty.DataAcces.csproj.AssemblyReference.cache
+/Users/bayborademir/Projects/qwerty/qwerty.DataAcces/obj/Debug/net7.0/qwerty.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bayborademir/Projects/qwerty/qwerty.DataAcces/obj/Debug/net7.0/qwerty.DataAcces.AssemblyInfoInputs.cache
+/Users/bayborademir/Projects/qwerty/qwerty.DataAcces/obj/Debug/net7.0/qwerty.DataAcces.AssemblyInfo.cs
+/Users/bayborademir/Projects/qwerty/qwerty.DataAcces/obj/Debug/net7.0/qwerty.DataAcces.csproj.CoreCompileInputs.cache
+/Users/bayborademir/Projects/qwerty/qwerty.DataAcces/obj/Debug/net7.0/qwerty.DataAcces.csproj.CopyComplete
+/Users/bayborademir/Projects/qwerty/qwerty.DataAcces/obj/Debug/net7.0/qwerty.DataAcces.dll
+/Users/bayborademir/Projects/qwerty/qwerty.DataAcces/obj/Debug/net7.0/refint/qwerty.DataAcces.dll
+/Users/bayborademir/Projects/qwerty/qwerty.DataAcces/obj/Debug/net7.0/qwerty.DataAcces.pdb
+/Users/bayborademir/Projects/qwerty/qwerty.DataAcces/obj/Debug/net7.0/qwerty.DataAcces.genruntimeconfig.cache
+/Users/bayborademir/Projects/qwerty/qwerty.DataAcces/obj/Debug/net7.0/ref/qwerty.DataAcces.dll

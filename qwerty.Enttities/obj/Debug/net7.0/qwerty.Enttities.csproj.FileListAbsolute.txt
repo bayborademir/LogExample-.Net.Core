@@ -1,0 +1,14 @@
+/Users/bayborademir/Projects/qwerty/qwerty.Enttities/bin/Debug/net7.0/qwerty.Enttities.deps.json
+/Users/bayborademir/Projects/qwerty/qwerty.Enttities/bin/Debug/net7.0/qwerty.Enttities.runtimeconfig.json
+/Users/bayborademir/Projects/qwerty/qwerty.Enttities/bin/Debug/net7.0/qwerty.Enttities.dll
+/Users/bayborademir/Projects/qwerty/qwerty.Enttities/bin/Debug/net7.0/qwerty.Enttities.pdb
+/Users/bayborademir/Projects/qwerty/qwerty.Enttities/obj/Debug/net7.0/qwerty.Enttities.csproj.AssemblyReference.cache
+/Users/bayborademir/Projects/qwerty/qwerty.Enttities/obj/Debug/net7.0/qwerty.Enttities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bayborademir/Projects/qwerty/qwerty.Enttities/obj/Debug/net7.0/qwerty.Enttities.AssemblyInfoInputs.cache
+/Users/bayborademir/Projects/qwerty/qwerty.Enttities/obj/Debug/net7.0/qwerty.Enttities.AssemblyInfo.cs
+/Users/bayborademir/Projects/qwerty/qwerty.Enttities/obj/Debug/net7.0/qwerty.Enttities.csproj.CoreCompileInputs.cache
+/Users/bayborademir/Projects/qwerty/qwerty.Enttities/obj/Debug/net7.0/qwerty.Enttities.dll
+/Users/bayborademir/Projects/qwerty/qwerty.Enttities/obj/Debug/net7.0/refint/qwerty.Enttities.dll
+/Users/bayborademir/Projects/qwerty/qwerty.Enttities/obj/Debug/net7.0/qwerty.Enttities.pdb
+/Users/bayborademir/Projects/qwerty/qwerty.Enttities/obj/Debug/net7.0/qwerty.Enttities.genruntimeconfig.cache
+/Users/bayborademir/Projects/qwerty/qwerty.Enttities/obj/Debug/net7.0/ref/qwerty.Enttities.dll
